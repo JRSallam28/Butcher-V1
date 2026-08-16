@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="ملحمة الأصالة">
+  <circle cx="60" cy="60" r="57" fill="#701b24"/><circle cx="60" cy="60" r="49" fill="none" stroke="#dca842" stroke-width="3"/>
+  <path fill="#dca842" d="M38 69c0-13 10-23 22-23s22 10 22 23v9H38z"/><path fill="#fff8ef" d="M48 45c0-9 5-15 12-15s12 6 12 15c-3-3-7-5-12-5s-9 2-12 5z"/>
+  <text x="60" y="91" text-anchor="middle" fill="#fff8ef" font-family="Arial" font-size="13" font-weight="bold">الأصالة</text>
+</svg>
